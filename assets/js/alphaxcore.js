@@ -4,9 +4,9 @@
   * Copyright 2021 Authors AlphaX Projects
 */
 
-var WebURL         = "https://havekhd.com/";
-var API            = "https://localhost:4000/api/";
-var stratumAddress = "stratum+tcp://havekhd.com";
+var WebURL         = "https://alphax.havek.net/alphax";
+var API            = "https://api.havek.net/api/";
+var stratumAddress = "stratum+tcp://havek.net";
 
 currentPage = "index";
 
